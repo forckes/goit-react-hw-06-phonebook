@@ -1,9 +1,10 @@
 {
-	"homepage": "https://forckes.github.io/goit-react-hw-03-phonebook",
-	"name": "goit-react-hw-03-phonebook",
+	"homepage": "https://forckes.github.io/goit-react-hw-06-phonebook",
+	"name": "goit-react-hw-06-phonebook",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
+		"@reduxjs/toolkit": "^1.9.5",
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^13.5.0",
@@ -14,7 +15,9 @@
 		"react-dom": "^18.2.0",
 		"react-hook-form": "^7.43.9",
 		"react-phone-number-input": "^3.2.19",
+		"react-redux": "^8.0.5",
 		"react-scripts": "^5.0.1",
+		"redux-persist": "^6.0.0",
 		"shortid": "^2.2.16",
 		"styled-components": "^5.3.9",
 		"styled-system": "^5.1.5",
